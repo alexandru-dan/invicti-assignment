@@ -1,0 +1,7 @@
+{
+  "Elements": {
+    "Sign In" : "#LoginLink",
+    "Sign Off" : "#LoginLink",
+    "Logo" : "#HyperLink1"
+  }
+}

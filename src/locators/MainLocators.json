@@ -1,0 +1,8 @@
+{
+  "Elements": {
+    "Sign In" : "#LoginLink",
+    "Sign Off" : "#LoginLink",
+    "Account Details": "#listAccounts",
+    "Logo" : "#HyperLink1"
+  }
+}

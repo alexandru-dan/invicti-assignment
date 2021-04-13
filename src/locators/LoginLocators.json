@@ -1,0 +1,9 @@
+{
+  "InputFields" : {
+    "Username" : "#uid",
+    "Password" : "#passw"
+  },
+  "Buttons" : {
+    "Login" : "input[name='btnSubmit']"
+  }
+}

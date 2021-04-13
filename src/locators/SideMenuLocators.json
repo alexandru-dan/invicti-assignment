@@ -1,0 +1,6 @@
+{
+  "Elements" : {
+    "Side" : "tr:nth-of-type(2) > td.cc.br.bb",
+    "SubSide" : "li"
+  }
+}

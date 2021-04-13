@@ -1,0 +1,31 @@
+{
+  "name": "invicti-assignment",
+  "version": "1.0.0",
+  "description": "Invicti Technical Assignment",
+  "main": "index.js",
+  "scripts": {
+    "bdd": "./node_modules/.bin/cucumber-js -p default"
+  },
+  "author": "dan.alexandru93@yahoo.com",
+  "license": "ISC",
+  "dependencies": {
+    "@cucumber/cucumber": "^7.1.0",
+    "@types/node": "^8.0.6",
+    "@types/selenium-webdriver": "^3.0.4",
+    "chromedriver": "^2.30.1",
+    "fs": "0.0.1-security",
+    "reflect-metadata": "^0.1.10",
+    "selenium-webdriver": "^3.4.0",
+    "tslint": "^5.4.3"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.2.16",
+    "@types/cucumber": "^7.0.0",
+    "chai": "^4.3.4",
+    "cucumber": "^7.0.0-rc.0",
+    "cucumber-pretty": "^6.0.0",
+    "cucumber-tsflow": "^4.0.0-rc.1",
+    "ts-node": "^9.1.1",
+    "typescript": "^2.9.2"
+  }
+}
